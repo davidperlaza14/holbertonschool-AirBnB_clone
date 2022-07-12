@@ -1,6 +1,7 @@
 # AirBnb clone - The console
 
 ![hbnb-screenshot](https://github.com/davidperlaza14/holbertonschool-AirBnB_clone/blob/master/img/hbnb_screenshot.png)
+
 ## Description
 
 This project is part of the Holberton School's Full-Stack Software Engineer program.
@@ -75,7 +76,7 @@ File | Description | Attributes
 [place.py](./models/place.py) | Place class for future accomodation information | city_id, user_id, name, description, number_rooms, number_bathrooms, max_guest, price_by_night, latitude, longitude, amenity_ids
 [review.py](./models/review.py) | Review class for future user/host review information | place_id, user_id, text
 
-# File storage
+## File storage
 
 The folder [engine](./models/engine/) manages the serialization and deserialization of all the data, following a JSON format.
 
