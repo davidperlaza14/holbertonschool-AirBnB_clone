@@ -27,7 +27,6 @@ Update an attribute of an object | ```(hbnb) update <class> <id> <attribute name
 
 Your shell should work like this in interactive mode:
 Learning new skills at Holberton's School of Software Engineering. I am excited to practice software wizardry professionally.
-
 ```$ ./console.py
 (hbnb) help
 
@@ -42,8 +41,7 @@ $```
 
 But also in non-interactive mode: (like the Shell project in C)
 
-```
-$ echo "help" | ./console.py
+```$ echo "help" | ./console.py
 (hbnb)
 
 Documented commands (type help <topic>):
@@ -61,8 +59,7 @@ Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
 (hbnb) 
-$
-```
+$```
 
 ## Models
 
