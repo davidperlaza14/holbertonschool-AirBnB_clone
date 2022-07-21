@@ -43,7 +43,7 @@
     text-align: center;
     min-width: 60px;
     width: 80px;
-    height: 90px;
+    height: 60px;
     font-size: 30px;
     line-height: 40px;
     margin-bottom: 10px;
@@ -62,6 +62,7 @@
 }
 
 .max_guest {
+    width: 100px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -70,6 +71,7 @@
 }
 
 .number_rooms {
+    width: 100px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -78,6 +80,7 @@
 }
 
 .number_bathrooms {
+    width: 100px;
     text-align: center;
     display: flex;
     flex-direction: column;
