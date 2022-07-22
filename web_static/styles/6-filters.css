@@ -51,7 +51,6 @@ h4{
 }
 
 .popover{
-    background-color: #FAFAFA;
     color: #484848;
     width: 100%;
     border: #DDDDDD 1px solid;
@@ -63,6 +62,9 @@ h4{
     z-index: 1;
     position: relative;
     margin-top: 17;
+}
+ul li h2{
+    font-size: 16px ;
 }
 
 .popover li {
